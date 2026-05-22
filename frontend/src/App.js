@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://intellidocs-ai-pdf-chat.onrender.com";
 
 function App() {
   const [file, setFile] = useState(null);
