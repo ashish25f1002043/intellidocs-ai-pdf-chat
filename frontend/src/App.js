@@ -68,7 +68,7 @@ function App() {
 
       {/* HEADER */}
       <div className="header">
-        <h1>AI PDF Chat Assistant</h1>
+        <h1>IntelliDocs</h1>
       </div>
 
       {/* UPLOAD SECTION */}
